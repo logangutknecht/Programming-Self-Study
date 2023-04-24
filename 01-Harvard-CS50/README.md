@@ -5,7 +5,7 @@ You can find the materials for the course <a href='https://cs50.harvard.edu/x/20
 
 ## Table of Contents
 
-- [Problem Set 1: C] (/C/pset1) - <a href='https://cs50.harvard.edu/x/2023/psets/1/'> Assignments 1</a>
-    * [hello] (/C/pset1/hello)
+- [Problem Set 1: C](/C/pset1) - <a href='https://cs50.harvard.edu/x/2023/psets/1/'> Assignments 1</a>
+    * [hello](/C/pset1/hello)
     * mario
         + [less]
