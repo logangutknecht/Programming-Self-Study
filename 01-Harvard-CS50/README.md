@@ -9,3 +9,6 @@ You can find the materials for the course <a href='https://cs50.harvard.edu/x/20
     * [hello](/C/pset1/hello)
     * [mario-more](/C/pset1/mario-more)
     * [cash](/C/pset1/cash)
+- [Week 02: Problem Set 2](/C/pset2) - <a href='https://cs50.harvard.edu/x/2023/psets/2/'> Assignments 2</a>
+    * [readability](/C/pset2/readability)
+    * 
