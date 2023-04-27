@@ -1,2 +1,0 @@
-# Princeton U: Computer Architecture
-.

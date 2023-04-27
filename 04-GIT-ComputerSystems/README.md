@@ -1,2 +1,0 @@
-# GeorgiaTech: Computer Systems
-.
